@@ -41,7 +41,7 @@
 ## 自然语言处理学习参考内容
 http://www.nltk.org/
 ## 自然语言工具包（NLTK）
-获取和处理语料库：nltk.corpus	语料库和词典的标准化接口
+获取和处理语料库：nltk.corpus	语料库和词典的标准化接口<br>
 字符串处理：nltk.tokenize,nltk.stem	分词，句子分解提取主干
 搭配发现：nltk.collocations	t-检验，卡方，点互信息PMI
 词性标识符：nltk.tag	n-gram，backoff，Brill，HMM，TnT
